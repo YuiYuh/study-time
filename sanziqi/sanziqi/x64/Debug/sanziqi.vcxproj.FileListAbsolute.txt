@@ -1,0 +1,2 @@
+D:\vs\code\sanziqi\x64\Debug\sanziqi.exe.lastcodeanalysissucceeded
+D:\vs\code\sanziqi\sanziqi\x64\Debug\NativeCodeAnalysis.read.1.tlog

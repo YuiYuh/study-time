@@ -1,0 +1,10 @@
+﻿  game.c
+  test.c
+D:\vs\code\sanziqi\test.c(1,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      D:\vs\code\sanziqi\test.c(1,9):
+      之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+  正在运行 C/C++ 代码分析...
+  正在生成代码...
+  sanziqi.vcxproj -> D:\vs\code\sanziqi\x64\Debug\sanziqi.exe
+MSBUILD : warning C6800: 通过 /analyze:ruleset 或 /analyze:external:ruleset 选项指定的规则集文件无法成功分析，将被忽略。
